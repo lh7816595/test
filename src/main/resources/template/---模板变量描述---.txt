@@ -1,0 +1,64 @@
+Service接口
+
+
+package     --包名--  
+
+path_1      com
+
+path_2      offcn
+
+Table2      --表名--
+
+comment     --表描述--
+
+
+Service实现类
+
+package     --包名----
+
+path_1      com
+
+path_2      offcn
+
+Table2      --表名--
+
+Column2     --列名  多列---
+
+
+Controller
+
+package    --包名----
+
+path_1      com
+
+path_2      offcn
+
+path_3      模块名称 
+
+Table2      --表名--
+
+comment     --表描述--
+
+
+前端js：Controller
+
+Table2      --表名--
+comment     --表描述--
+
+前端js：Service
+
+Table2      --表名--
+comment     --表描述--
+
+
+前端html页面
+
+Table2      --表名--
+comment     --表描述--
+path_2     --Controller模块名称--
+key        --修改更新主键名--
+columnComment  --列注释--
+column2      --列名称 多列--
+
+
+
