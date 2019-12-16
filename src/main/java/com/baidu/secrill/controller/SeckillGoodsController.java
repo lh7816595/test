@@ -49,6 +49,7 @@ public class SeckillGoodsController {
 	@RequestMapping("/add")
 	public Result add(@RequestBody TbSeckillGoods seckillGoods){
 		try {
+			//我更新了！！！
 			seckillGoodsService.add(seckillGoods);
 			return new Result(true, "增加成功");
 		} catch (Exception e) {
