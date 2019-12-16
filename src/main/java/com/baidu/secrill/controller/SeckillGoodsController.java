@@ -18,7 +18,7 @@ import com.baidu.entity.Result;
 @RestController
 @RequestMapping("/seckillGoods")
 public class SeckillGoodsController {
-
+   //刘阿龙你是傻逼
 	@Reference
 	private SeckillGoodsService seckillGoodsService;
 	
